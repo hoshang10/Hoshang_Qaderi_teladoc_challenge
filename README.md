@@ -8,5 +8,5 @@ Apachi POI dependency for reading data from external sources like Excel Sheet an
 Page Object Model(POM) and Singleton Driver as a design pattern.
 Configuration Properties to store the test data and read it via ConfigurationReader.
 This framework generates cucumber html report and json report. 
-
+You can run it from Feature level in feature folder or from CukesRunner class in runner package.
 Author ***Hoshang Qaderi***
